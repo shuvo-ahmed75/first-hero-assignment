@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.mission-part-1{
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    
+}
+.mission-left-side{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+h1{
+    font-size: 40px;
+    padding-left: 20px;
+}
+.left-border{
+    border-left: 5px solid rgb(238, 77, 77);
+    
+}
+.orange-color{
+    color: orange;
+}
+.btn-style{
+    color: white;
+    background-color: rgb(238, 77, 77);
+    padding: 15px 35px;
+    border: none;
+    border-radius: 5px;
+}
+.mission-right-side img{
+    width: 50%;
+    margin-left: 100px;
+    
+}
