@@ -10,7 +10,7 @@ body{
     
 }
 .mission-left-side{
-    margin-left: 100px;
+    margin-left: 80px;
     margin-top: 80px;
 }
 
@@ -45,8 +45,9 @@ h1{
 .second-section-all-catagories{
     display: flex;
     margin: 0 auto;
-    width: 75%;
+    width: 80%;
     justify-content: space-between;
+    margin-bottom: 80px;
 }
 .catagory-img1 img{
     width: 50%;
@@ -87,3 +88,30 @@ h1{
     border-radius: 20px;
 }
  /* Second section end */
+
+ .third-section-controller{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+ }
+
+ .third-section-img img{
+     width: 70%;
+ }
+
+ /* Third section end */
+
+ 
+ .fourth-section-controller{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+ }
+
+ .fourth-section-img img{
+     width: 70%;
+ }
+
+
