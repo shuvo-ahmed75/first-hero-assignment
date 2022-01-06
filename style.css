@@ -114,4 +114,19 @@ h1{
      width: 70%;
  }
 
+ /* Fourth section end */
+
+
+ .footer-div{
+     background-color: rgb(3, 11, 17);
+    height: 150px;
+    text-align: center;
+    color: white;
+ }
+ .footer-text-size{
+     padding-top: 30px;
+ }
+ .footer-text{
+     color: rgb(238, 77, 77);
+ }
 
