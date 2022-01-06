@@ -36,4 +36,54 @@ h1{
     width: 50%;
     margin-left: 100px;
     
+}   
+   /*  First section end */
+.second-section-heading{
+    text-align: center;
+}       
+
+.second-section-all-catagories{
+    display: flex;
+    margin: 0 auto;
+    width: 75%;
+    justify-content: space-between;
 }
+.catagory-img1 img{
+    width: 50%;
+}
+.all-missions-catagory1{
+    width: 350px;
+    background-color: rgb(237, 245, 246);
+    border-radius: 20px;
+}
+.mission-content1{
+    margin:30px 30px;
+}
+.mission-content1 p{
+    font-size: 15px;
+}
+.mission-content2{
+    margin:30px 30px;
+}
+.mission-content2 p{
+    font-size: 15px;
+}
+.mission-content3{
+    margin:30px 30px;
+ 
+}
+.mission-content3 p{
+    font-size: 15px;
+}
+
+.all-missions-catagory2{
+    width: 350px;
+    background-color: rgb(237, 245, 246);
+    border-radius: 20px;
+}
+.all-missions-catagory3{
+    width: 350px;
+    background-color: rgb(237, 245, 246);
+    border-radius: 20px;
+}
+ /* Second section end */
